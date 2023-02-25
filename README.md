@@ -26,4 +26,4 @@
 ## Last (public) Projects: 
 - Shopping store made with Next.js and Redux. PayPal was used as Payment Gateway (sandbox): <br/> https://next-redux-shopping-cart-e992.vercel.app/
 
-- News app made with React Native (Expo ❤️) and API provided by Wordpress server with PHP. Deployed only at Google Play Store: <br/> https://play.google.com/store/apps/details?id=com.mariobondo.fiscalizanews
+- News app made with React Native (Expo 💥) and API provided by Wordpress server with PHP. Deployed only at Google Play Store: <br/> https://play.google.com/store/apps/details?id=com.mariobondo.fiscalizanews
