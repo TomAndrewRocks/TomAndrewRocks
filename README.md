@@ -20,7 +20,7 @@
 [![Blog](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white
 )]()
 
-![TAR's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomandrewrocks&show_icons=true&theme=dracula)
+![TAR's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tomandrewrocks&show_icons=true&theme=dracula)
 
 ## Last (public) Projects: 
 - Shopping store made with Next.js and Redux. PayPal was used as Payment Gateway (sandbox): <br/> https://next-redux-shopping-cart-e992.vercel.app/
