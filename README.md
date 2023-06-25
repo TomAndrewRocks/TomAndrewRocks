@@ -1,4 +1,4 @@
-### What's up?! I'm Tom 👨‍💻⚛️ and if you need a frontend Dev, you got it!
+### What's up?! I'm Tom 👨‍💻⚛️ and if you need a fullstack Dev, you got it!
 
 
 [![Blog](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
